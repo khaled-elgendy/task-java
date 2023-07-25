@@ -1,0 +1,37 @@
+*
+{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 20px;
+}
+ul li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 120px;
+}
+.buy-button{
+  width:80px;
+  height:40px;
+  border-radius:8px;
+}
+body{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.product-details {
+  width: 200px;
+  height: 150px;
+  margin: auto;
+}
+.product-name{
+  text-align: center;
+}
+.navbar-brand::first-letter{color:rgb(0, 217, 255)}
+.navbar-brand{
+  font-size: xx-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
